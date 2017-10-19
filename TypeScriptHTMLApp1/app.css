@@ -1,0 +1,31 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #8FFF73;
+}
+
+fieldset{
+    width: 100%;
+}
+
+fieldset>legend{
+    text-align: center;
+}
+
+form {
+    position: absolute;
+    left: 30vw;
+    top:25vh;
+    display: block;
+    width: 40vw;
+    height: 50vh;
+}
+fieldset {
+    display: inline-block;
+    text-align: center;
+}
+input, textarea {
+    text-align: center;
+}
+.error {
+    border: 1px solid red;
+}

@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Encrypt/decrypt</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <script src="app.js" async></script>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>What you wish to do?</legend>
+            <input type="radio" name="action" value="encrypt" checked /> Encrypt<br />
+            <input type="radio" name="action" value="decrypt" /> Decrypt<br />
+            <div style="display:none" id="validator"></div>
+            <br />
+            <button type="button" name="button" id="submitAction" onclick="setKeyForm()">Submit</button>
+        </fieldset>
+    </form>
+</body>
+</html>

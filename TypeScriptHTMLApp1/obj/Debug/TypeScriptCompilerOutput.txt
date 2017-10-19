@@ -1,0 +1,8 @@
+C:\Users\Punisher\Documents\Visual Studio 2017\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\app.js
+C:\Users\Punisher\Documents\Visual Studio 2017\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\app.js.map
+C:\Users\Punisher\Documents\Visual Studio 2017\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\app.js
+C:\Users\Punisher\Documents\Visual Studio 2017\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\app.js.map
+C:\Users\Punisher\Documents\Visual Studio 2017\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\app.js
+C:\Users\Punisher\Documents\Visual Studio 2017\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\app.js.map
+C:\Users\Punisher\Documents\Visual Studio 2017\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\app.js
+C:\Users\Punisher\Documents\Visual Studio 2017\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\app.js.map
